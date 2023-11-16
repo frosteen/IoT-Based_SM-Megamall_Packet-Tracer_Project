@@ -1,7 +1,7 @@
 # IoT-Based_SM-Megamall_Packet-Tracer_Project
 A network design project built with cisco packet-tracer that was presented during my college days.
 
-## Topology
+## Network Topology
 ![Topology.png](./Topology.png)
 
 ## Built-with
